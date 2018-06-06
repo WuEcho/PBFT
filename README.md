@@ -8,3 +8,7 @@ Go语言实现PBFT算法
 然后新建一个终端再进入到pbft文件夹下，使用命令& ./main IBM
 
 如果运行的有问题那么关闭那输入为& ./main Google的命令行
+
+[欢迎访问作者博客地址阅读更多相关文章](http://www.wuecho.com)
+
+
