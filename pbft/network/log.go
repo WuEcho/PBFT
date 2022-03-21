@@ -2,7 +2,7 @@ package network
 
 import (
 	"fmt"
-	"kongyixueyuan.com/pbft/consensus"
+	"PBFT/pbft/consensus"
 )
 
 func LogMsg(msg interface{}) {
