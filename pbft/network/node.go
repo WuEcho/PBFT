@@ -1,7 +1,7 @@
 package network
 
 import (
-	"kongyixueyuan.com/pbft/consensus"
+	"PBFT/pbft/consensus"
 	"encoding/json"
 	"fmt"
 	"time"
